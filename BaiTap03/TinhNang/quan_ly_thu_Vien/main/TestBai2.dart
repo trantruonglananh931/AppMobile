@@ -1,6 +1,6 @@
-import '../model/sach.dart';
-import '../model/doc_gia.dart';
-import '../model/thu_vien.dart'; 
+import '../models/sach.dart';
+import '../models/doc_gia.dart';
+import '../models/thu_vien.dart'; 
 
 void main() {
   // Tạo các sách

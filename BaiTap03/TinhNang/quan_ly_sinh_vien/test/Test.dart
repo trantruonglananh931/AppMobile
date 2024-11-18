@@ -1,6 +1,6 @@
 
-import '../model/lop_hoc.dart';
-import '../model/sinh_vien.dart';
+import '../models/lop_hoc.dart';
+import '../models/sinh_vien.dart';
 
 //Test
 void main() {
